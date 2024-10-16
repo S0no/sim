@@ -1,0 +1,23 @@
+style.css
+html {
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+body {
+ width: 800px;
+ background-color: rgb(248, 3, 3);
+ padding: 50px 100px;
+ margin: 60px auto;
+opacity: 70%;
+}
+
+p{
+ font-size:20px;
+}
+.teste1 {
+  background-color:rgb(0, 0, 0);
+  padding: 10px;
+
+}
